@@ -67,3 +67,5 @@ Example3: disable blue led, yellow led for 1000Mbps, green led for link and acti
 Example4: disable blue led
    bpi_ledset eth0 b
 ```
+
+https://linux-sunxi.org/Banana_Pi#LEDs
